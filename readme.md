@@ -1,2 +1,2 @@
 #project2
-this is web a site that used html 5 and css 
+this is a web site that used html 5 and css 
